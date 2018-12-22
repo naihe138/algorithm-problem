@@ -11,3 +11,5 @@ A daily algorithm problem（每天刷一道算法题）
 [每天刷一道算法题02--去除空白字符串](https://github.com/naihe138/algorithm-problem/blob/master/20181219.md)
 
 [每天刷一道算法题03--威尔逊素数](https://github.com/naihe138/algorithm-problem/blob/master/20181220.md)
+
+[每天刷一道算法题04--比赛分数计算](https://github.com/naihe138/algorithm-problem/blob/master/20181221.md)
