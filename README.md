@@ -13,3 +13,6 @@ A daily algorithm problem（每天刷一道算法题）
 [每天刷一道算法题03--威尔逊素数](https://github.com/naihe138/algorithm-problem/blob/master/20181220.md)
 
 [每天刷一道算法题04--比赛分数计算](https://github.com/naihe138/algorithm-problem/blob/master/20181221.md)
+
+
+[每天刷一道算法题05--完成平方和函数](https://github.com/naihe138/algorithm-problem/blob/master/20181222.md)
