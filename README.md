@@ -16,3 +16,6 @@ A daily algorithm problem（每天刷一道算法题）
 
 
 [每天刷一道算法题05--完成平方和函数](https://github.com/naihe138/algorithm-problem/blob/master/20181222.md)
+
+
+[每天刷一道算法题06--计算正整数的长度负整数的和](https://github.com/naihe138/algorithm-problem/blob/master/20181223.md)
