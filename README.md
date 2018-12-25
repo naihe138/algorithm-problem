@@ -19,3 +19,6 @@ A daily algorithm problem（每天刷一道算法题）
 
 
 [每天刷一道算法题06--计算正整数的长度负整数的和](https://github.com/naihe138/algorithm-problem/blob/master/20181223.md)
+
+
+[每天刷一道算法题07--数字返回倒序数组](https://github.com/naihe138/algorithm-problem/blob/master/20181224.md)
