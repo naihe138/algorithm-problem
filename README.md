@@ -24,3 +24,5 @@ A daily algorithm problem（每天刷一道算法题）
 [每天刷一道算法题07--数字返回倒序数组](https://github.com/naihe138/algorithm-problem/blob/master/20181224.md)
 
 [每天刷一道算法题08--正负数组的数字](https://github.com/naihe138/algorithm-problem/blob/master/20181225.md)
+
+[每天刷一道算法题09--点对称-点对称](https://github.com/naihe138/algorithm-problem/blob/master/20181226.md)
